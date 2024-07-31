@@ -1,0 +1,36 @@
+{
+  "name": "projetfinal",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
+    "@react-native-async-storage/async-storage": "1.18.2",
+    "@react-native-material/core": "^1.3.7",
+    "@react-navigation/bottom-tabs": "^6.5.8",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/native-stack": "^6.9.13",
+    "@react-navigation/stack": "^6.3.17",
+    "axios": "^1.5.0",
+    "expo": "~49.0.8",
+    "expo-localization": "~14.3.0",
+    "expo-sqlite": "~11.3.3",
+    "expo-status-bar": "~1.6.0",
+    "i18n-js": "^4.3.2",
+    "nodemailer": "^6.9.4",
+    "react": "18.2.0",
+    "react-native": "0.72.4",
+    "react-native-maps": "^1.7.1",
+    "react-native-sqlite-storage": "^6.0.1",
+    "react-native-vector-icons": "^10.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}

@@ -1,0 +1,11 @@
+[
+    {"id": 10, "coord": {"latitude": 45.642437463656, "longitude": -73.842384172169}, "nom": "Adresse de Livraison",
+  "description": "Adresse de Livraison du client"},
+   {"id": 20, "coord": {"latitude": 20.0, "longitude": 80}, "nom": "Magasin d'Inde ",
+  "description": "Entrepot du magasin d'Inde"},
+  {"id": 30, "coord": {"latitude": 15.6762, "longitude": 19.6503}, "nom": "Magasin le plus proche de l'addresse de livraison",
+  "description": "Entrepot du magasin au Chad"},
+  {"id": 40, "coord": {"latitude": 25.6762, "longitude": 39.6503}, "nom": "Magasin d'Arabie Saoudite",
+  "description": "Entrepot du magasin d'Arabie Saoudite"}
+]
+  
